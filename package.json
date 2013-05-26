@@ -1,0 +1,15 @@
+{
+  "name": "shannonmoeller-collection",
+  "version": "0.0.1",
+  "description": "A basic JavaScript collection.",
+  "keywords": ["collection", "model", "mvc"],
+  "license": "MIT",
+  "repository": "shannonmoeller/collection.js",
+  "dependencies": {
+    "shannonmoeller-model": "*"
+  },
+  "devDependencies": {
+      "workit": "*"
+  },
+  "main": "lib/collection.js"
+}
