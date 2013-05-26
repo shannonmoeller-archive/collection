@@ -15,7 +15,7 @@
 
 ## API
 
-### Collection(array)
+### `Collection(array)`
 
 Create a new model which wraps around `object`.
 
@@ -24,17 +24,17 @@ var Collection = require('collection');
 var foo = Collection([{ a: 1 }, { a: 2 }, { a: 3 }]);
 ```
 
-### .model
+### `.model`
 
-### .filter(filterer)
+### `.filter(filterer)`
 
-### .map(mapper)
+### `.map(mapper)`
 
-### .pluck(key):Array.<\*> <br /> .pluck(array):Array.&lt;Object&gt;
+### `.pluck(key):Array.<\*>` <br /> `.pluck(array):Array.&lt;Object&gt;`
 
-### .sort(sorter)
+### `.sort(sorter)`
 
-### .toJSON()
+### `.toJSON()`
 
   Returns the current state of the internal data as a plain object.
 
