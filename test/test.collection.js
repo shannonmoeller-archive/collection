@@ -76,8 +76,6 @@ describe('Collection', function () {
                         { c: 8, d: undefined },
                         { c: 9, d: undefined }
                     ]);
-
-                console.log(collection.pluck(['c', 'd']));
             });
         });
 
