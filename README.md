@@ -5,7 +5,9 @@
 
 ## Installation
 
-    $ component install shannonmoeller/collection
+    $ npm install shannonmoeller-collection
+
+    $ component install shannonmoeller/collection.js
 
 ## API
 
