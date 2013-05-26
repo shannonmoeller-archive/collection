@@ -30,7 +30,7 @@ var foo = Collection([{ a: 1 }, { a: 2 }, { a: 3 }]);
 
 ### `.map(mapper)`
 
-### `.pluck(key):Array.<\*>` <br /> `.pluck(array):Array.&lt;Object&gt;`
+### `.pluck(key):Array.<*>` <br /> `.pluck(array):Array.&lt;Object&gt;`
 
 ### `.sort(sorter)`
 
